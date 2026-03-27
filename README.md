@@ -1,5 +1,43 @@
 # 💫 About Me:
-💼 I’m currently working on<br>AI systems involving computer vision and LLM-based components in a production environment.<br>Focused on integrating models with backend services and improving inference workflows.<br><br>🤝 I’m looking to collaborate on<br>Applied machine learning projects across domains.<br>Interested in practical AI systems, backend integrations, and scalable cloud deployment.<br><br>🧠 I’m currently learning<br>AI system design, LLM orchestration patterns, and MLOps fundamentals.<br>Working on strengthening production-level debugging and performance optimization skills.<br><br>💬 Ask me about<br>OpenCV pipelines, AWS-based ML integration, model deployment challenges, and real-world data handling issues.<br><br>⚡ Fun fact<br>I prefer building complete ML workflows rather than isolated notebook experiments.
+
+💼 **What I do**
+Data Scientist / AI Engineer with hands-on experience building **multimodal AI systems** in production.
+I work on end-to-end pipelines involving **computer vision, LLMs, and backend integrations**, with a focus on real-time processing and reliable workflows.
+
+---
+
+🤝 **What I’m looking for**
+Collaborations on **applied AI systems**, especially:
+
+* LLM-based applications (RAG, agents, automation)
+* Multimodal AI (vision + speech + language)
+* Practical ML systems with real-world use cases
+
+---
+
+🧠 **What I’m actively improving**
+
+* AI system design for real-world constraints
+* LLM integration patterns (prompting, orchestration)
+* Performance optimization (latency, efficiency)
+* MLOps fundamentals
+
+---
+
+💬 **What I can help with**
+
+* Building real-time computer vision pipelines (OpenCV, MediaPipe)
+* Integrating LLMs via AWS (Bedrock, APIs, structured prompting)
+* Designing end-to-end AI workflows (ingestion → inference → output)
+* Optimizing pipelines for better performance
+
+---
+
+⚡ **How I work**
+I focus on building complete, usable systems rather than isolated models.
+From data to inference to output, I aim to make workflows practical and reliable.
+
+---
 
 
 ## 🌐 Socials:
