@@ -3,43 +3,32 @@
 💼 **What I do**
 Data Scientist / AI Engineer with hands-on experience building **multimodal AI systems** in production.
 I work on end-to-end pipelines involving **computer vision, LLMs, and backend integrations**, with a focus on real-time processing and reliable workflows.
-
 ---
-
 🤝 **What I’m looking for**
 Collaborations on **applied AI systems**, especially:
 
 * LLM-based applications (RAG, agents, automation)
 * Multimodal AI (vision + speech + language)
 * Practical ML systems with real-world use cases
-
 ---
-
 🧠 **What I’m actively improving**
 
 * AI system design for real-world constraints
 * LLM integration patterns (prompting, orchestration)
 * Performance optimization (latency, efficiency)
 * MLOps fundamentals
-
 ---
-
 💬 **What I can help with**
 
 * Building real-time computer vision pipelines (OpenCV, MediaPipe)
 * Integrating LLMs via AWS (Bedrock, APIs, structured prompting)
 * Designing end-to-end AI workflows (ingestion → inference → output)
 * Optimizing pipelines for better performance
-
 ---
-
 ⚡ **How I work**
 I focus on building complete, usable systems rather than isolated models.
 From data to inference to output, I aim to make workflows practical and reliable.
-
 ---
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritam-dutta-b20b311b6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritamdutta3893@gmail.com) 
 
@@ -49,4 +38,4 @@ From data to inference to output, I aim to make workflows practical and reliable
 ---
 [![](https://visitcount.itsvg.in/api?id=Ritamd9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
